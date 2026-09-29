@@ -1,0 +1,5 @@
+# Metadata for the Flutter project.
+version:
+  revision: "managed-by-flutter-sdk"
+  channel: "stable"
+project_type: app

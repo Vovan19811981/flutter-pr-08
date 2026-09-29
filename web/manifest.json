@@ -1,0 +1,11 @@
+{
+  "name": "Greenhouse Monitor",
+  "short_name": "Greenhouse Monitor",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#3F51B5",
+  "description": "Asynchronous greenhouse monitoring demo",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
